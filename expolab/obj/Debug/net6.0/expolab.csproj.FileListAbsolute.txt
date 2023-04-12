@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\expolab\expolab\bin\Debug\net6.0\expolab.exe
+C:\Users\bowha\source\repos\expolab\expolab\bin\Debug\net6.0\expolab.deps.json
+C:\Users\bowha\source\repos\expolab\expolab\bin\Debug\net6.0\expolab.runtimeconfig.json
+C:\Users\bowha\source\repos\expolab\expolab\bin\Debug\net6.0\expolab.dll
+C:\Users\bowha\source\repos\expolab\expolab\bin\Debug\net6.0\expolab.pdb
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.dll
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\refint\expolab.dll
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.pdb
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\expolab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\expolab\expolab\obj\Debug\net6.0\ref\expolab.dll
